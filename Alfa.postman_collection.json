@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "8a6c5e68-7cd7-4768-b907-71d522433599",
+		"name": "Alfa",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "getRate",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
